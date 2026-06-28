@@ -15,6 +15,15 @@ export default function Hero() {
         Conecte sua empresa ao futuro da automação com o ecossistema integrado
         Facilito Smart.
       </p>
+      <a
+        href="https://calendar.app.google/x8JHnhDFngRH8cxa6"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-flex items-center gap-2 mt-8 px-7 py-3 bg-[#00E5FF] text-black font-bold rounded-full text-base shadow-[0_4px_20px_rgba(0,229,255,0.3)] hover:brightness-110 transition-all duration-200"
+      >
+        <i className="fa-regular fa-calendar" />
+        Agendar Consulta
+      </a>
     </section>
   );
 }
