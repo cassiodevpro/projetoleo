@@ -22,7 +22,7 @@ export default function Header() {
           <i className="fa-brands fa-instagram" />
         </a>
         <a
-          href="https://wa.me/5561995638827"
+          href="https://wa.me/5561995638827?text=vim%20do%20site%20e%20quero%20saber%20mais%20sobre%20o%20produto"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#9CA3AF] hover:text-[#25D366] transition-colors duration-200 text-2xl"
