@@ -11,6 +11,26 @@ export default function Header() {
           FACILITO <span className="text-[#00E5FF]">SMART</span>
         </span>
       </div>
+      <div className="flex items-center gap-4">
+        <a
+          href="https://www.instagram.com/leocelularesdf/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#9CA3AF] hover:text-[#E1306C] transition-colors duration-200 text-2xl"
+          aria-label="Instagram"
+        >
+          <i className="fa-brands fa-instagram" />
+        </a>
+        <a
+          href="https://wa.me/5561995638827"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#9CA3AF] hover:text-[#25D366] transition-colors duration-200 text-2xl"
+          aria-label="WhatsApp"
+        >
+          <i className="fa-brands fa-whatsapp" />
+        </a>
+      </div>
     </header>
   );
 }
